@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Back End(BE)",
+    "link": "/backend-description"
+  },
+  {
+    "name": "Front End(FE)",
+    "link": "/frontend-description"
+  },
+  {
+    "name": "Quality Assurance(QA)",
+    "link": "/quality-assurance-description"
+  },
+  {
+    "name": "UI/UX Design",
+    "link": "/uiux-design-description"
+  },
+  {
+    "name": "Certificate Validation",
+    "link": "/certificate-validation"
+  }
+]
